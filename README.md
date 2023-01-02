@@ -1,5 +1,9 @@
-### Hi there 👋
-EDUCATION
+#### Hey there
+
+Hi, I'm Sushma, Quick-minded computer science professional with 2 years of work experience, practicing Data science and machine learning since 8 months and worked on web scraping, exploaratory data analysis projects using real-time dataset, seeking to use my skills to help the organization to meet the goal.
+
+
+## EDUCATION
 
 Data Science & Machine Learning Bootcamp, Jovian (View)                                           May 2022 - Ongoing
 Courses: Python Programming, Data Analysis & Visualization, SQL
