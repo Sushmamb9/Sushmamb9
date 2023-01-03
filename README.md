@@ -5,37 +5,37 @@ Hi, I'm Sushma, Quick-minded computer science professional with 2 years of work 
 
 ### 🎓EDUCATION
 
-#### Data Science & Machine Learning Bootcamp, Jovian (May 2022 - Ongoing)
+#### ◾ Data Science & Machine Learning Bootcamp, Jovian (May 2022 - Ongoing)
 Courses: Python Programming, Data Analysis & Visualization, SQL
 Highlights: 600+ hours of coursework, 10 coding assignments, and 2 projects (Web scraping, EDA)
 
-#### KLE’s RLS BCA College (Autonomous affiliated to RCA) Belagavi, Karnataka (2017-2020)
+#### ◾ KLE’s RLS BCA College (Autonomous affiliated to RCA) Belagavi, Karnataka (2017-2020)
 Bachelors of computer application (86%)
 Courses: Databases & SQL, Programming with Python, Statistics and Probability, HTML, UNIX
 
 ### SKILLS and CERTIFICATES
-#### Skills: 
+#### ◾ Skills: 
 SQL, Python, Excel, Tableau, Pandas, Numpy, Matplotlib, Plotly, UNIX, Statistics, Data Analysis, Data Visualization, Dashboarding, Presentation, SAP Basis (ERP, PI/PO, Fiori, BI)
-#### Certificate: 
+#### ◾ Certificate: 
  • Data Analysis with Python: Zero to Pandas from Jovian
 
 ### PROJECTS
-#### Exploratory Data Analysis and Visualization of Spotify dataset
+#### ◾ Exploratory Data Analysis and Visualization of Spotify dataset
 • Worked with Spotify Dataset from Kaggle containing 170K rows and 53 columns of data
 • Created visualizations (Scatter plots, Bar & Line charts, Pie charts) using Seaborn, Plotly & Matplotlib
 • Discovered that Switzerland-based artists have published the highest number of Albums
 
-#### Scraping Different Categories Product Details on GIVA using Python
+#### ◾ Scraping Different Categories Product Details on GIVA using Python
 • Scraped different categories of product details on GIVA.co using Requests & BeautifulSoup4
 • Created various functions to download webpage, parse, extract & save the information into a CSV
 • Stored data consisting of 106 rows x 6 columns into FinalFile.csv using Pandas
 
-#### Tableau Dashboard for Bookshop Dataset
+#### ◾ Tableau Dashboard for Bookshop Dataset
 • Worked on Bookshop dataset, categorized number of sales  & ratings per book using Pivot table
 • Created a Dashboard containing a Bar chart, Pie chart, Horizontal Bar, and Map in Tableau
 • Published the created dashboard with multiple sheets to tableau public online 
 
-##### SQL Mini-Project
+##### ◾ SQL Mini-Project
 • Worked on the dataset called “Chinook Database Structure” containing 11 tables
 • Used DDL, DCL, and DML statements to create joins, select query statements for insights 
 • Listed artist details, average tracks per album by performing joins on the tables Albums & Tracks
