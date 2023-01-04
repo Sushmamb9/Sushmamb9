@@ -42,10 +42,10 @@ SQL, Python, Excel, Tableau, Pandas, Numpy, Matplotlib, Plotly, UNIX, Statistics
 
 ### 👩‍💻 WORK EXPERIENCE
 #### Systems Associate – Infosys Limited                                                                                                           (2020 - 2022)
-- • Performed various upgrades such as Kernel upgrades, SAP component upgrades, troubleshooting client’s issues and providing solutions, handling tickets within the SLA
-- • Responsible for client follow-ups for data requirements & preparing the reports as per the client’s need
-- • Preparing 6-7 monitoring reports daily & worked with SQL to retrieve the data
-- • Promoted from Operations executive to Systems Associate within a year
+- Performed various upgrades such as Kernel upgrades, SAP component upgrades, troubleshooting client’s issues and providing solutions, handling tickets within the SLA
+- Responsible for client follow-ups for data requirements & preparing the reports as per the client’s need
+- Preparing 6-7 monitoring reports daily & worked with SQL to retrieve the data
+- Promoted from Operations executive to Systems Associate within a year
 
 <!--
 **Sushmamb9/Sushmamb9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
