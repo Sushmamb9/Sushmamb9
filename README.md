@@ -4,7 +4,7 @@ Hi, I'm Sushma, Quick-minded computer science professional with 2 years of work 
 
 #### You can reach me here:
 [<img src="https://i.imgur.com/Hnq4IZp.jpg">](https://www.linkedin.com/in/sushma-bhavikatti/)
-[<img src="https://i.imgur.com/15x0rYY.jpg">](https://medium.com/@sushmamb)
+[<img src="https://i.imgur.com/cNWhiPY.jpg">](https://medium.com/@sushmamb)
 
 ### 🔖 SKILLS and CERTIFICATES
 #### ◾ Skills: 
