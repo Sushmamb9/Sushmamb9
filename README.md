@@ -2,6 +2,11 @@
 
 Hi, I'm Sushma, Quick-minded computer science professional with 2 years of work experience, practicing Data science and machine learning since 8 months and worked on web scraping, exploaratory data analysis projects using real-time dataset, seeking to use my skills to help the organization to meet the goal.
 
+### 🔖 SKILLS and CERTIFICATES
+#### ◾ Skills: 
+SQL, Python, Excel, Tableau, Pandas, Numpy, Matplotlib, Plotly, UNIX, Statistics, Data Analysis, Data Visualization, Dashboarding, Presentation, SAP Basis (ERP, PI/PO, Fiori, BI)
+#### ◾ Certificate: 
+ • Data Analysis with Python: Zero to Pandas from Jovian
 
 ### 👩‍🎓 EDUCATION
 
@@ -12,12 +17,6 @@ Highlights: 600+ hours of coursework, 10 coding assignments, and 2 projects (Web
 #### ◾ KLE’s RLS BCA College (Autonomous affiliated to RCA) Belagavi, Karnataka (2017-2020)
 Bachelors of computer application (86%)
 Courses: Databases & SQL, Programming with Python, Statistics and Probability, HTML, UNIX
-
-### 🔖 SKILLS and CERTIFICATES
-#### ◾ Skills: 
-SQL, Python, Excel, Tableau, Pandas, Numpy, Matplotlib, Plotly, UNIX, Statistics, Data Analysis, Data Visualization, Dashboarding, Presentation, SAP Basis (ERP, PI/PO, Fiori, BI)
-#### ◾ Certificate: 
- • Data Analysis with Python: Zero to Pandas from Jovian
 
 ### 💻 PROJECTS
 #### ◾ Exploratory Data Analysis and Visualization of Spotify dataset
@@ -40,12 +39,6 @@ SQL, Python, Excel, Tableau, Pandas, Numpy, Matplotlib, Plotly, UNIX, Statistics
 • Used DDL, DCL, and DML statements to create joins, select query statements for insights 
 • Listed artist details, average tracks per album by performing joins on the tables Albums & Tracks
 
-### 👩‍💻 WORK EXPERIENCE
-#### Systems Associate – Infosys Limited                                                                                                           (2020 - 2022)
-- Performed various upgrades such as Kernel upgrades, SAP component upgrades, troubleshooting client’s issues and providing solutions, handling tickets within the SLA
-- Responsible for client follow-ups for data requirements & preparing the reports as per the client’s need
-- Preparing 6-7 monitoring reports daily & worked with SQL to retrieve the data
-- Promoted from Operations executive to Systems Associate within a year
 
 <!--
 **Sushmamb9/Sushmamb9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
