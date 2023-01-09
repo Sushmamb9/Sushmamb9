@@ -3,8 +3,8 @@
 Hi, I'm Sushma, Quick-minded computer science professional with 2 years of work experience, practicing Data science and machine learning since 8 months and worked on web scraping, exploaratory data analysis projects using real-time dataset, seeking to use my skills to help the organization to meet the goal.
 
 ###### You can reach me:
-[<img src="https://i.imgur.com/sq56Og1.jpg">](https://medium.com/@sushmamb)
-Medium: 
+LinkedIn[<img src="[https://i.imgur.com/sq56Og1.jpg](https://i.imgur.com/vPj8Kji.jpg)">](https://medium.com/@sushmamb)
+
 
 ### 🔖 SKILLS and CERTIFICATES
 #### ◾ Skills: 
