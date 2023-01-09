@@ -2,6 +2,10 @@
 
 Hi, I'm Sushma, Quick-minded computer science professional with 2 years of work experience, practicing Data science and machine learning since 8 months and worked on web scraping, exploaratory data analysis projects using real-time dataset, seeking to use my skills to help the organization to meet the goal.
 
+You can reach me:
+LinkedIn: https://www.linkedin.com/in/sushma-bhavikatti/
+Medium: 
+
 ### 🔖 SKILLS and CERTIFICATES
 #### ◾ Skills: 
 SQL, Python, Excel, Tableau, Pandas, Numpy, Matplotlib, Plotly, UNIX, Statistics, Data Analysis, Data Visualization, Dashboarding, Presentation, SAP Basis (ERP, PI/PO, Fiori, BI)
