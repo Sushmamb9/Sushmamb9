@@ -11,6 +11,7 @@ Hi, I'm Sushma, Quick-minded computer science professional with 2 years of work 
 SQL, Python, Excel, Tableau, Pandas, Numpy, Matplotlib, Plotly, UNIX, Statistics, Data Analysis, Data Visualization, Dashboarding, Presentation, SAP Basis (ERP, PI/PO, Fiori, BI)
 #### ◾ Certificate: 
  • Data Analysis with Python: Zero to Pandas from Jovian
+ • Excel for Intermediate Level from Great Learning
 
 ### 👩‍🎓 EDUCATION
 
